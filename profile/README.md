@@ -4,7 +4,7 @@ For general documentations, please check https://rave.wiki to start
 
 The following table lists the package builder status. The documentation is mainly for advanced RAVE users who wish to code with RAVE infastracture/functions to analyze the iEEG data. 
 
-|Source Package|Build Version|Description & Documentation|
+|Source Package (Github)|CI/CD Build Version|Description & Documentation|
 |:--|:--|:--|
 |[![ravemanager](https://img.shields.io/github/r-package/v/dipterix/ravemanager/master?logo=github&style=flat-square&color=white&label=ravemanager)](https://github.com/dipterix/ravemanager)|[![r-universe](https://rave-ieeg.r-universe.dev/badges/ravemanager?color=blue&style=classic)](https://rave-ieeg.r-universe.dev/ravemanager)|[Dependence manager](https://dipterix.org/ravemanager/)|
 |[![rave](https://img.shields.io/github/r-package/v/beauchamplab/rave/master?logo=github&style=flat-square&color=white&label=rave)](https://github.com/beauchamplab/rave)|[![r-universe](https://rave-ieeg.r-universe.dev/badges/rave?color=blue&style=classic)](https://rave-ieeg.r-universe.dev/rave)|[Main package](https://rave.wiki)|
