@@ -17,6 +17,6 @@ The following table lists the package builder status. The documentation is mainl
 |[![rpyANTs](https://img.shields.io/github/r-package/v/dipterix/rpyANTs/master?logo=github&style=flat-square&color=white&label=rpyANTs)](https://github.com/dipterix/rpyANTs)|[![r-universe](https://rave-ieeg.r-universe.dev/badges/rpyANTs?color=blue&style=classic)](https://rave-ieeg.r-universe.dev/rpyANTs)|[Interface to ANTs](https://dipterix.org/rpyANTs/)|
 |[![dipsaus](https://img.shields.io/github/r-package/v/dipterix/dipsaus/master?logo=github&style=flat-square&color=white&label=dipsaus)](https://github.com/dipterix/dipsaus)|[![r-universe](https://rave-ieeg.r-universe.dev/badges/dipsaus?color=blue&style=classic)](https://rave-ieeg.r-universe.dev/dipsaus)|[Utility functions](https://dipterix.org/dipsaus/)|
 |[![threeBrainPy](https://img.shields.io/badge/threeBrainPy-Python_3.0-white?style=flat-square&logo=github&label=threeBrainPy&color=white)](https://github.com/dipterix/threeBrainPy)|![PyPI - Version](https://img.shields.io/pypi/v/threeBrainPy)|[3D viewer engine in Python](https://dipterix.org/threeBrainPy/)|
-
+|[![three-brain-js](https://img.shields.io/github/package-json/v/dipterix/three-brain-js?style=flat-square&logo=github&color=white)](https://github.com/dipterix/three-brain-js)|![NPM - Version](https://img.shields.io/npm/v/%40rave-ieeg%2Fthree-brain)|[Core engine](https://www.npmjs.com/package/@rave-ieeg/three-brain)|
 
 
